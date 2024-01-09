@@ -1,0 +1,14 @@
+D:\Cursos\C#\Nelio\ExercicioListas\ExercicioListas\bin\Debug\net8.0\ExercicioListas.exe
+D:\Cursos\C#\Nelio\ExercicioListas\ExercicioListas\bin\Debug\net8.0\ExercicioListas.deps.json
+D:\Cursos\C#\Nelio\ExercicioListas\ExercicioListas\bin\Debug\net8.0\ExercicioListas.runtimeconfig.json
+D:\Cursos\C#\Nelio\ExercicioListas\ExercicioListas\bin\Debug\net8.0\ExercicioListas.dll
+D:\Cursos\C#\Nelio\ExercicioListas\ExercicioListas\bin\Debug\net8.0\ExercicioListas.pdb
+D:\Cursos\C#\Nelio\ExercicioListas\ExercicioListas\obj\Debug\net8.0\ExercicioListas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C#\Nelio\ExercicioListas\ExercicioListas\obj\Debug\net8.0\ExercicioListas.AssemblyInfoInputs.cache
+D:\Cursos\C#\Nelio\ExercicioListas\ExercicioListas\obj\Debug\net8.0\ExercicioListas.AssemblyInfo.cs
+D:\Cursos\C#\Nelio\ExercicioListas\ExercicioListas\obj\Debug\net8.0\ExercicioListas.csproj.CoreCompileInputs.cache
+D:\Cursos\C#\Nelio\ExercicioListas\ExercicioListas\obj\Debug\net8.0\ExercicioListas.dll
+D:\Cursos\C#\Nelio\ExercicioListas\ExercicioListas\obj\Debug\net8.0\refint\ExercicioListas.dll
+D:\Cursos\C#\Nelio\ExercicioListas\ExercicioListas\obj\Debug\net8.0\ExercicioListas.pdb
+D:\Cursos\C#\Nelio\ExercicioListas\ExercicioListas\obj\Debug\net8.0\ExercicioListas.genruntimeconfig.cache
+D:\Cursos\C#\Nelio\ExercicioListas\ExercicioListas\obj\Debug\net8.0\ref\ExercicioListas.dll
